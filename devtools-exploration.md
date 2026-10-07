@@ -1,4 +1,4 @@
-##HTML Tags
+## HTML Tags
 
 • <!DOCTYPE html> – Declares the document type as HTML5.
 • <html> – The root element that wraps all content on the page.
@@ -10,7 +10,7 @@
 • <style> – Holds internal CSS rules directly within the HTML.
 • <script> – Embeds or points to executable JavaScript.
 
-##Semantic Layout & Sections
+## Semantic Layout & Sections
 
 These body elements structuralize the layout, helping search engines and screen readers parse the page.
 • <header> – Defines the introductory section or top navigation area.
@@ -40,7 +40,7 @@ Tags used to organize paragraphs, headings, and individual typographic component
 • <sub> / <sup> – Formats text as subscript or superscript.
 • <blockquote> – Indicates a block quotation from an external source.
 
-🔗 Links & Multimedia
+## Links & Multimedia
 
 Elements used to reference outside data, navigate away, or embed media elements.
 • <a> – Creates hyperlinks via the href attribute.
@@ -49,7 +49,7 @@ Elements used to reference outside data, navigate away, or embed media elements.
 • <video> – Embeds video player content.
 • <iframe> – Embeds another HTML page inside the current document.
 
-📋 Lists & Tables
+## Lists & Tables
 
 Structural layouts for managing sets of continuous data or rows and columns.
 • <ul> – Creates an unordered (bulleted) list.
@@ -60,7 +60,7 @@ Structural layouts for managing sets of continuous data or rows and columns.
 • <th> – Defines a table header cell (bold and centered by default).
 • <td> – Defines a standard table data cell.
 
-📥 Forms & User Inputs
+## Forms & User Inputs
 
 Interactive structural pieces used to capture user responses and selections.
 • <form> – Acts as a container for collection fields.
