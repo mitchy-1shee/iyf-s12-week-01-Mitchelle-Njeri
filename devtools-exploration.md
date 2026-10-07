@@ -1,22 +1,22 @@
 ## HTML Tags
 
-• <!DOCTYPE html> – Declares the document type as HTML5.
+<!DOCTYPE html> – Declares the document type as HTML5.
 
-• <html> – The root element that wraps all content on the page.
+<html> – The root element that wraps all content on the page.
 
-• <head> – Contains page metadata, scripts, and stylesheets.
+<head> – Contains page metadata, scripts, and stylesheets.
 
-• <title> – Sets the browser tab title for the webpage.
+<title> – Sets the browser tab title for the webpage.
 
-• <body> – Contains the visible content of the web page.
+<body> – Contains the visible content of the web page.
 
-• <meta> – Defines metadata like character encoding, keywords, and viewport settings.
+<meta> – Defines metadata like character encoding, keywords, and viewport settings.
 
-• <link> – Connects external resources (like CSS stylesheets) to the document.
+<link> – Connects external resources (like CSS stylesheets) to the document.
 
-• <style> – Holds internal CSS rules directly within the HTML.
+<style> – Holds internal CSS rules directly within the HTML.
 
-• <script> – Embeds or points to executable JavaScript.
+<script> – Embeds or points  executable JavaScript.
 
 
 ## Semantic Layout & Sections
@@ -104,20 +104,20 @@
 
 ## Forms & User Inputs
 
+<form> – Acts as a container for collection fields.
 
-• <form> – Acts as a container for collection fields.
+<input> – Creates versatile interactive controls (text boxes, radio buttons, checkboxes via type).
 
-• <input> – Creates versatile interactive controls (text boxes, radio buttons, checkboxes via type).
+<textarea> – Generates a multi-line text input control.
 
-• <textarea> – Generates a multi-line text input control.
+<label> – Pairs a text description to an input field for accessibility.
 
-• <label> – Pairs a text description to an input field for accessibility.
+<select> – Creates a drop-down selection list.
 
-• <select> – Creates a drop-down selection list.
+<option> – Defines individual items within a <select> drop-down list.
 
-• <option> – Defines individual items within a <select> drop-down list.
+<button> – Creates a clickable button control.
 
-• <button> – Creates a clickable button control
-
+  ## Page title
 
 
